@@ -951,6 +951,7 @@ body {
 .modal-form-check {
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .modal-form-check::before {
